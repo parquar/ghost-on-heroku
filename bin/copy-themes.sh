@@ -1,6 +1,5 @@
 themes=(
 	casper
-  pch-casper
   attila
 	london
 	massively
