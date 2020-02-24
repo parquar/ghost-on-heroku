@@ -1,6 +1,7 @@
 themes=(
 	casper
-	attila
+  pch-casper
+  attila
 	london
 	massively
 	bleak
